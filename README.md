@@ -1,1 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/cZzse2_A)
+# Project Introduction
+This project is a online learning website called "Baizonn Learning Center". In this website, we provide up-to-date curriculum and targeted lesson to our customers up for success in the coming terms. 
+
+This is the group project of Group E in the CP3402 Content Management Systems subject, which is the Assignment 2 project. Our team developed the theme details on Wordpress, and deployed online(can be accessed via: http://xingg4.sg-host.com/). 
+
+# Development Team
+Group E indlude 4 members, they are:
+Weijun Chew (Group Leader, CWJ02),
+Xing Gao (),
+NguyenNgoc Minh Thu (),
+Jiaqi Zhao ().
