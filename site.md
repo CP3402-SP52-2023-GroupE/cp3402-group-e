@@ -2,13 +2,13 @@ The website is constructed of pages, each of which can be customized in a diffe
 
 # Home
 This page includes our teaching style and principals 
-  -Baizonn's commitment
-  -Baizonn's teaching principals
-  -Baizonn's testimonials
-  -Baizonn's mainly course
-  
-  ***Plugin used***
-  -Button Group by Otter
+  - Baizonn's commitment
+  - Baizonn's teaching principals
+  - Baizonn's testimonials
+  - Baizonn's mainly course
+
+***Plugin used***
+  - Button Group by Otter
   
 # About us
 
