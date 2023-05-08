@@ -1,5 +1,11 @@
 The website is constructed of pages, each of which can be customized in a different way. Below is a list of pages, along with how they are organized as well as their features
 
+/*Add new Page*/
+To add a new page, click on "Pages" in the left-hand menu and then click "Add New". Enter a title for your page and add your content using the editor. You can also choose a category for your page, if applicable, by selecting one from the "Categories" section on the right-hand side of the page.
+
+/*Add new post*/
+To add a new post, click on "Posts" in the left-hand menu and then click "Add New". Enter a title for your post and add your content using the editor. You can also choose a category for your post, if applicable, by selecting one from the "Categories" section on the right-hand side of the page.
+
 # Home
 This page includes our teaching style and principals 
   - Baizonn's commitment
@@ -68,6 +74,8 @@ This page includes 2 videos about how to learn Algebra and how to solve Algebra
 # Contact
 
 This is the final page of the Baizonn website. It includes information about Baizonn's address and a contact form for student/viewer who has questions or maybe have some feedback.
+
+***Once you have added your content, be sure to click "Publish" or "Update" to make your changes live on the website.***
 
 ***Plugin used***
   - Maps by Otter
