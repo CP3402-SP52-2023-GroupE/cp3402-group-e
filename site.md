@@ -45,6 +45,8 @@ It includes 8 classes in total :
   - Secondary 3-4 Science/Math
   - Junior College 1-2 Science/Math
 
+To add new events to the calendar, the website appears to be using the "The Events Calendar" plugin. To add a new event, click on "Events" in the left-hand menu and then click "Add New". Enter a title for your event and add the event details in the editor. You can also select a category for your event, if applicable, by selecting one from the "Event Categories" section on the right-hand side of the page.
+
 ***Plugin used***
   - Timetable and Event Schedule
 
