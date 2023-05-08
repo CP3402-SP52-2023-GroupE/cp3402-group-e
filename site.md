@@ -6,6 +6,7 @@ This page includes our teaching style and principals
   -Baizonn's teaching principals
   -Baizonn's testimonials
   -Baizonn's mainly course
+  
   ***Plugin used***
   -Button Group by Otter
   
