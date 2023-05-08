@@ -17,7 +17,7 @@ Below each section, we created a 'Browse Classes' button which will send viewers
 ***Plugin used***
   - Slider by Otter
 
-# Registeration
+# Registration
 
 This page includes information about available promotions at Baizonn (there are two promotions now). It also provides a registration form for the student to register for classes that they are interested in.
 
