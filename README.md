@@ -3,6 +3,9 @@ This project is a online learning website called "Baizonn Learning Center". In t
 
 This is the group project of Group E in the CP3402 Content Management Systems subject, which is the Assignment 2 project. Our team developed the theme details on Wordpress, and deployed online(can be accessed via: https://xingg4.sg-host.com/). 
 
+# How to start
+Download the .xml file and use WordPress to manage or modify it.
+
 # Development Team
 Group E indlude 4 members, they are: <br/>
 Weijun Chew (Group Leader, [CWJ02](https://github.com/CWJ02)), <br/>
